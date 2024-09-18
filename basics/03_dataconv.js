@@ -22,7 +22,7 @@ console.log(str3)
 
 let val = 10;
 let y = val++; //postfix value
-let x = ++val; //prefix value operatoe
+let x = ++val; //prefix value operator value opera
 console.table([y,x,val])
 
 
